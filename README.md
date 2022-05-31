@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Noppawat3939
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 📫 How to reach me Gopgap Noppawat
+##  Hi, I’m Gopgap, React Frontend Developer 👨‍💻
+---
+- 👨‍🏫 I started my career in teaching.
+- 👨🏻‍💻 I'm currently enjoying coding.
+- 🌱 I enjoy learning new things.
 
-<!---
-Noppawat3939/Noppawat3939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### You can reach me here 🌎
+🏠 [website][website]  
+🌐 [linkedin][linkedin]
+
+
+
+
+
+
+[website]:https://noppawat.netlify.app/
+[linkedin]: https://www.linkedin.com/in/noppawat-chochaipantawong-659180214/
