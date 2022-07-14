@@ -1,8 +1,9 @@
-##  Hi, I’m Gopgap, React Frontend Developer 👨‍💻
+##  Hi, I’m Gopgap, Frontend Developer 👨‍💻
 ---
 - 👨‍🏫 I started my career in teaching.
 - 👨🏻‍💻 I'm currently enjoying coding.
 - 🌱 I enjoy learning new things.
+
 
 ### You can reach me here 🌎
 🏠 [website][website]  
