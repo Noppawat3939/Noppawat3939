@@ -34,10 +34,3 @@ In 2022, I started my personal coding studies. One of the things I enjoy doing i
 
 <p align="left"> <a href="https://www.github.com/Noppawat3939" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/noppawat-chochaipantawong-659180214" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Noppawat3939"><img src="https://github-readme-stats.vercel.app/api?username=Noppawat3939&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="Noppawat3939's GitHub stats" /></a>
-
-<a href="https://github.com/Noppawat3939" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noppawat3939&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
