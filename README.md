@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopgap</h1>
-<h3 align="center">A passionate build Amazing UserInterface!</h3>
+<h3 align="center">A passionate to build Amazing UserInterface!</h3>
 
 - 🔭 I’m currently working on **Magic box Solution**
 
