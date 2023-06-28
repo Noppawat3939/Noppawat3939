@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopgap</h1>
-<h3 align="center">A passionate to build Amazing UserInterface!</h3>
+<h3 align="center">A passionate to build Amazing User Interface.</h3>
 
 - 🔭 I’m currently working on **Magic box Solution**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Noppawat3984@gmail.com**
 
-- 📄 Know about my experiences [inbox email for view my resume](inbox email for view my resume)
+- 📄 Please inbox email for view my resume
 
 - ⚡ Fun fact **I think ...**
 
