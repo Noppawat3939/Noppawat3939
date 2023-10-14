@@ -27,6 +27,6 @@ ___
 |  Project  |  Description  |  Demo  |
 |  ---  |  ---  |  ---  |
 | :sparkles: Khoom Khoomm  | Compare and Find the best product price | [Khoomkhoom](https://khoom-khoomm.vercel.app) |
-|  My Blog  | Create your blog post | [Blog](https://blog-client-noppawat3939.vercel.app) |
+| :sparkles: My Blog  | Create your blog post | [Blog](https://blog-client-noppawat3939.vercel.app) |
 
 
