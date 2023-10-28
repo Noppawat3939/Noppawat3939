@@ -3,8 +3,6 @@
 
 🔭 I’m currently working Frontend Developer
 <br/>
-🌱 I’m currently learning **Backend and NewTech**
-<br/>
 👨‍💻 All of my projects are available at ["Here"](https://ggdev.vercel.app)
 <br/>
 📫 How to reach me **Noppawat3984@gmail.com**
