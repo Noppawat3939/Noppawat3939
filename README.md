@@ -24,7 +24,8 @@ ___
   
 |  Project  |  Description  |  Demo  |
 |  ---  |  ---  |  ---  |
-| :sparkles: Khoom Khoom  | Compare and Find the best product price | [Khoom khoom](https://khoom-khoom.vercel.app) |
-| :sparkles: My Blog  | Create your blog post | [Blog](https://blog-client-noppawat3939.vercel.app) |
+| :zap: JSON Generator | Generate JSON data and convert to typescript | [JSON Generator](https://json-generator-dev.vercel.app) |
+| :zap: Khoom Khoom  | Compare and Find the best product price | [Khoom Khoom](https://khoom-khoom.vercel.app) |
+| :zap: My Blog  | Create your blog post | [Blog](https://blog-client-noppawat3939.vercel.app) |
 
 
