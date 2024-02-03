@@ -4,7 +4,7 @@ I'm Gopgap</h1>
 <h3 align="center">"A passionate to build Amazing User Interface."</h3>
 
 
-- :telescope: I’m working as a Frontend Developer and contributing to frontend for building web and mobile applications.
+- :telescope: I’m working as a Software Engineer and contributing to full-stack for building web and mobile applications.
 
 - :zap: In my free time, I read tech articles and learn new technology.
 
