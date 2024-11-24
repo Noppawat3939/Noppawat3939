@@ -22,7 +22,7 @@ ___
 
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -86,9 +86,10 @@ ___
 
 ###
 
-<div align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noppawat3939&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="stack" />
-</div>
+<div align="center">
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noppawat3939&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
 
 
