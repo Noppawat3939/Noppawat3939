@@ -14,11 +14,6 @@ ___
 
 <div align="center">
 
-|  Project  |  Description  |  Demo  |
-|  ---  |  ---  |  ---  |
-| :zap: JSON Generator | Generate JSON data and convert to typescript | [view](https://json-generator-dev.vercel.app) |
-| :zap: Khoom Khoom  | Compare and Find the best product price | [view](https://khoom-khoom.vercel.app) |
-| :zap: My Blog  | Create your blog post | [view](https://blog-client-noppawat3939.vercel.app) |
 
 </div>
 
