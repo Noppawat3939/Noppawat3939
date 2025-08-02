@@ -16,14 +16,14 @@ ___
 
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=js,ts,go"  />
-  <img width="1000" />
+<!--   <img width="1000" />
   <img src="https://skillicons.dev/icons?i=react,next,express,nest,nodejs" /> 
   <img width="1000" />
   <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,firebase,sequelize,prisma" /> 
   <img width="1000" />
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,androidstudio" /> 
   <img width="1000" />
-  <img src="https://skillicons.dev/icons?i=yarn,bun,npm,pnpm" /> 
+  <img src="https://skillicons.dev/icons?i=yarn,bun,npm,pnpm" />  -->
 </div>
 
 
