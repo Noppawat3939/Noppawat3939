@@ -88,7 +88,7 @@ const noppawat = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noppawat-chochaipantawong-659180214)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO](https://noppawat3939.github.io/resume/me))
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://noppawat3939.github.io/resume/me)
 
 </div>
 
