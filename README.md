@@ -18,21 +18,21 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```ts
 const noppawat = {
-  pronouns   : "he/him",
-  location   : "Thailand 🇹🇭",
+  callMe     : "Gopgap",
+  location   : "Bangkok",
   passion    : "Building amazing user interfaces",
   currentFocus: ["Full Stack Development", "Clean Architecture", "DX"],
-  funFact    : "I debug with console.log and I'm not ashamed 😄",
+  funFact    : "I debug with console.log and I'm not ashamed",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ const noppawat = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -75,15 +75,7 @@ const noppawat = {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noppawat3939&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
