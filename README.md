@@ -25,8 +25,8 @@ const noppawat = {
   callMe     : "Gopgap",
   location   : "Bangkok",
   passion    : "Building amazing user interfaces",
-  currentFocus: ["Full Stack Development", "Clean Architecture", "DX"],
-  funFact    : "I debug with console.log and I'm not ashamed",
+  focus: ["Full Stack Development", "Clean Architecture", "DX"],
+  fact    : "I debug with console.log and I'm not ashamed",
 };
 ```
 
