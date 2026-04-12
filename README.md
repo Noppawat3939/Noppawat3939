@@ -8,93 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=600&color=00ACD7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%24+go+run+noppawat.go;%3E+compiling+developer...;%3E+---+PASS%3A+TestBuild+(0.00s);%3E+build+successful+%E2%9C%93+%5B0.001s%5D" alt="Typing SVG" />
 </div>
 
----
-```go
 
-package main
-
-import (
-    "fmt"
-    "time"
-)
-
-type Developer struct {
-    Name     string
-    Alias    string
-    Role     string
-    Location string
-    OpenTo   bool
-}
-
-func (d Developer) String() string {
-    return fmt.Sprintf("[%s] %s · %s", d.Alias, d.Role, d.Location)
-}
-
-func NewDeveloper() Developer {
-    return Developer{
-        Name:     "Noppawat Chochaipantawong",
-        Alias:    "Gopgap",
-        Role:     "Software Engineer",
-        Location: "Bangkok, TH",
-        OpenTo:   true,
-    }
-}
-
-func main() {
-    me := NewDeveloper()
-
-    fmt.Println(me)
-    // → [Gopgap] Software Engineer · Bangkok, TH
-
-    for {
-        select {
-        case <-time.After(0):
-            me.Build("clean architecture")
-            me.Ship("amazing UIs")
-            me.Debug() // yes, still uses console.log
-        }
-    }
-}
-```
-
----
-```go
-// stack.go
-
-var TechStack = map[string][]string{
-    "Languages": {"TypeScript", "JavaScript", "Go"},
-    "Frontend":  {"React", "Next.js", "Tailwind CSS"},
-    "Backend":   {"Express", "NestJS", "Gin", "Fiber", },
-    "Database":  {"PostgreSQL", "Firebase", "Redis", "MongoDB"},
-    "Infra":     {"Docker", "AWS", "GCP", "GitHub Actions"},
-}
-```
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,js,react,next,tailwind,postgres,redis,mongo,firebase,docker,aws,gcp&theme=dark" />
 </div>
 
----
-```go
-// stats.go
-// package github — github.com/Noppawat3939
-```
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Noppawat3939&theme=transparent&hide_border=true&ring=00ACD7&fire=00ACD7&currStreakLabel=00ACD7&dates=555&sideLabels=555" />
 </div>
-
----
-```go
-// contact.go
-
-var Links = struct {
-    LinkedIn  string
-    Portfolio string
-}{
-    LinkedIn:  "linkedin.com/in/noppawat-chochaipantawong",
-    Portfolio: "noppawat3939.github.io/resume/me",
-}
-```
 
 <div align="center">
 
